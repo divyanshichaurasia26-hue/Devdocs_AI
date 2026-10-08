@@ -12,7 +12,7 @@ The application retrieves the most relevant information from the uploaded docume
 
 **Try DevDocs AI online:**
 
-👉 **Streamlit App:** YOUR_STREAMLIT_APP_URL
+👉 **Streamlit App:** (https://devdocsai-ghu8kgnq4xncf4htvij7kp.streamlit.app/)
 
 The application is deployed using Streamlit Community Cloud and can be accessed directly from a web browser.
 
